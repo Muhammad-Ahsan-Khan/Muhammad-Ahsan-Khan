@@ -69,7 +69,7 @@ I care about understanding systems at every layer, from high-level AI logic down
 
 ## GitHub stats
 
-<img src="https://streak-stats.demolab.com?user=Muhammad-Ahsan-Khan&hide_border=true&background=000000&ring=00D4FF&fire=00D4FF&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=00D4FF&stroke=00D4FF&border=00D4FF" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Muhammad-Ahsan-Khan&theme=default&hide_border=true&background=000000&ring=00D4FF&fire=00D4FF&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=00D4FF&stroke=00D4FF&border=00D4FF&v=2" width="100%"/>
 
 ![My contribution graph as a space shooter game](game.gif)
 
