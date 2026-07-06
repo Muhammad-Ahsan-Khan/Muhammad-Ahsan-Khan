@@ -73,6 +73,8 @@ I care about understanding systems at every layer, from high-level AI logic down
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahsan-Khan&theme=minimal&hide_border=true&area=true" width="100%"/>
 
+![My contribution graph as a space shooter game](game.gif)
+
 ---
 
 ## Get in touch
